@@ -1,1 +1,1 @@
-# algebra-web-shop
+# algebraWebShop
